@@ -3,6 +3,6 @@
   <br>
 ㅤㅤ
 ㅤ
-<p align="center">
-  <a href="https://github.com/impulsivepersona" target="_blank">新book</a> ₍ᐢ. .ᐢ₎ wip ok
+<h6 align>
+  <a href="https://github.com/impulsivepersona" target="_blank">新book</a> wip ok
   <br>
