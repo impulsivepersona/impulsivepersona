@@ -1,5 +1,5 @@
 
-<p align="center"><img src=https://komarev.com/ghpvc/?username=impulsivepersona&color=e1cc84&style=plastic&label=_❝_banshees_❞_&abbreviated=true)></img></p>
+<p align="center"><img src=https://komarev.com/ghpvc/?username=impulsivepersona&color=#f9e0b7&style=plastic&label=_❝_banshees_❞_&abbreviated=true)></img></p>
   <br>
 ㅤㅤ
 ㅤ
