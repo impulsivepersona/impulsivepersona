@@ -4,5 +4,5 @@
 ㅤㅤ
 ㅤ
 <h6 align>
-<a href="https://github.com/impulsivepersona" target="_blank">rentry</a> <p align="center"><a href="https://github.com/impulsivepersona" target="_blank">新book</a> <p align="center"><a href="https://github.com/impulsivepersona" target="_blank">straw</a> wip ok
+<a href="https://github.com/impulsivepersona" target="_blank">rentry</a> <a href="https://github.com/impulsivepersona" target="_blank">新book</a> <a href="https://github.com/impulsivepersona" target="_blank">straw</a> wip ok
 
