@@ -4,5 +4,5 @@
 ㅤㅤ
 ㅤ
 <p align="center">
-  <a href="https://github.com/impulsivepersona" target="_blank">新book</a> wip ok
+  <a href="https://github.com/impulsivepersona" target="_blank">新book</a> ₍ᐢ. .ᐢ₎ wip ok
   <br>
