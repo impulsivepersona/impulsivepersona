@@ -1,4 +1,8 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=impulsivepersona&color=629609&style=for-the-badge&label=❝+lures+❞+&base=9581&abbreviated=true)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=impulsivepersona&color=786522&style=for-the-badge&label=❝++banshees++❞+&base=9581&abbreviated=true)
+  <br>
 ㅤㅤ
 ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ata](https://impulsivepersona.atabook.org)
+<p align="center">
+  wip ok
+  <br>
