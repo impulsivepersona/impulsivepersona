@@ -4,5 +4,5 @@
 ㅤㅤ
 ㅤ
 <h6 align>
-<p align="center"><a href="https://rentry.co/yvoisen" target="_blank">rentry</a>ㅤㅤ<a href="https://yvoisen/atabook.org" target="_blank">新book</a>ㅤㅤ<a href="https://yvoise.straw.page" target="_blank">straw</a>
+<p align="center"><a href="https://rentry.co/yvoisen" target="_blank">rentry</a>ㅤㅤ<a href="https://yvoisen.atabook.org" target="_blank">新book</a>ㅤㅤ<a href="https://yvoise.straw.page" target="_blank">straw</a>
 
