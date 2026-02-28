@@ -1,5 +1,5 @@
 
-<p align="center"><img src=https://komarev.com/ghpvc/?username=impulsivepersona&color=f9e0b7&style=plastic&label=+2000+witches/mages+&abbreviated=true)></img></p>
+<p align="center"><img src=https://komarev.com/ghpvc/?username=impulsivepersona&color=f9e0b7&style=plastic&label=+my+own+summer+&abbreviated=true)></img></p>
   <br>
 ㅤㅤ
 ㅤ
