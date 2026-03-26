@@ -4,5 +4,5 @@
 ㅤㅤ
 ㅤ
 <h6 align>
-<p align="center"><a href="https://yvoise.straw.page">straw</a>ㅤㅤ<a href="https://yvoisen.atabook.org">新book</a>ㅤㅤ<a href="https://pronouns.cc/yvoisen">prns.cc</a>
+<p align="center"><a href="https://yvoise.straw.page">straw</a>ㅤㅤ<a href="https://yvoisen.atabook.org">新book</a>ㅤㅤ<a href="https://pronouns.cc/yvoisen">prns.cc</a>ㅤㅤ<a href="https://guns.lol/yvoisen">guns.lol</a>
 
